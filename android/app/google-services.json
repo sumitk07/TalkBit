@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "692589149448",
+    "firebase_url": "https://flare-chat-65498.firebaseio.com",
+    "project_id": "flare-chat-65498",
+    "storage_bucket": "flare-chat-65498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692589149448:android:6f8fb76a7c2282d0a480bd",
+        "android_client_info": {
+          "package_name": "co.sumit.flare_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692589149448-tcsp329h7bh462ffs14igpcc65e9hneo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjCViAQustzeBFBye2MIVQ2nBxSnwHTX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692589149448-tcsp329h7bh462ffs14igpcc65e9hneo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
